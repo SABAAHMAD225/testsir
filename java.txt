@@ -1,1 +1,3 @@
-class aa(){}
+class aa(){
+int a = 1;
+}
